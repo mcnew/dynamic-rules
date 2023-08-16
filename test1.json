@@ -1,2 +1,17 @@
-{
-}
+[
+  {
+    "type": "add",
+    "description": {
+      "param1": "value1",
+      "param2": "value2",
+      "target": "sum"
+    }
+  },
+  {
+    "type": "save",
+    "description": {
+      "registry": "alpha",
+      "value": "sum"
+    }
+  }
+]
